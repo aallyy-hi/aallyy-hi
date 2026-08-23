@@ -12,7 +12,7 @@ I'm interested in cybersecurity, IT, networking, system administration, and codi
 This GitHub is where I'll document my hands-on labs, homelab projects, study notes, quizzes, and everything I learn along the way.
 </p>
 
-</p>ി◝ ⩊ ◜.ᐟ</p>
+</p>ദ്ദി◝ ⩊ ◜.ᐟ</p>
 
 </div>
 
