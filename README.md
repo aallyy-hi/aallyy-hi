@@ -9,8 +9,10 @@ I'm interested in cybersecurity, IT, networking, system administration, and codi
 </p>
 
 <p>
-This GitHub is where I'll document my hands-on labs, homelab projects, study notes, quizzes, and everything I learn along the way. ദ്ദി◝ ⩊ ◜.ᐟ
+This GitHub is where I'll document my hands-on labs, homelab projects, study notes, quizzes, and everything I learn along the way.
 </p>
+
+</p>ി◝ ⩊ ◜.ᐟ</p>
 
 </div>
 
