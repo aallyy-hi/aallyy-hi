@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&textBg=false&fontAlign=50&fontAlignY=40&reversal=false&section=header/>
+
+<div align="center">
 
 <h1>Hi there, I'm Ally. ݁₊ ⊹ ݁</h1>
 
