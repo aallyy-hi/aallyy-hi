@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=546163&height=150&section=header"/> </div>
 
-![Header](./git-hub-banner.png)
+![Header](./banner.png)
 
 <div align="center">
 
