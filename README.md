@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<h1>Hi there, I'm Ally. ݁₊ ⊹ ݁</h1>
+<h1>Hi, I'm Ally. ݁₊ ⊹ ݁</h1>
 
 <p>Cybersecurity Student | Graduating December 2026</p>
 
@@ -20,7 +20,6 @@ This GitHub is where I'll document my hands-on labs, homelab projects, study not
 </div>
 
 ---
-
 ## ⌞ Learning Journey ⌝
 
 I want to learn more about IT and cybersecurity while finding simple and fun ways to explain what I learn. :)
@@ -36,7 +35,6 @@ Some things I'm currently learning or exploring:
 - **CTFs:** Currently learning through TryHackMe
 - **Coding:** Practicing through Codédex
 
----
 
 ## ⌞ Projects I Want to Build ⌝
 
@@ -48,13 +46,7 @@ Some things I'm currently learning or exploring:
 
 ---
 
-## ⌞ ♡ About Me ⌝
 
-- I love online gaming, especially LoL, OW, and Marvel Rivals
-- I love cats 
-- I enjoy horror and romance anime, reality TV, and cookies
-
----
 
 
 
