@@ -51,16 +51,12 @@ Some things I'm currently learning or exploring:
 ## ⌞ ♡ About Me ⌝
 
 - I love online gaming, especially LoL, OW, and Marvel Rivals
-- I love cats and probably always will
-- I enjoy horror and romance anime, reality TV, and way too many cookies
+- I love cats 
+- I enjoy horror and romance anime, reality TV, and cookies
 
 ---
 
-<div align="center">
 
-### . ݁₊ ⊹ I will get better, one day at a time⊹ ₊ ݁.
-
-</div>
 
 
 
